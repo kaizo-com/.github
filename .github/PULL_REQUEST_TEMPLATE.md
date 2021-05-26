@@ -1,13 +1,10 @@
-### What is the goal of this PR?
-
-
-### Links (JIRA, Notion, Miro)
+### Description
 
 
 ### Why are the changes needed?
 
 
-### What are the most important things to look at?
+### What are the most important things to review?
 
 
 ### Are there any known issues or open questions?
@@ -18,3 +15,8 @@
 
 ### How was this PR tested?
 
+
+#### Links
+- JIRA: 
+- Notion: 
+- Miro: 

@@ -1,5 +1,7 @@
-# Test Pull Request Template
+### What changes were proposed in this pull request?
 
-## Section 1
+### Why are the changes needed?
 
-## Section 2
+### What are the most important things to look at?
+
+### How was this patch tested? 
